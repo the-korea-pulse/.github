@@ -12,6 +12,7 @@ Sister publication: [The Korea Wave](https://wave.koreasignals.com/) — the bus
 
 ## Latest analysis
 
+- [Korea’s DART Logged 1,808 Filings in Week 39](https://pulse.koreasignals.com/posts/koreas-dart-logged-1808-filings-in-week-39/) — 2026-09-28
 - [OECD and ADB Raise South Korea’s 2026 Growth Outlook](https://pulse.koreasignals.com/posts/oecd-and-adb-raise-south-koreas-2026-growth-outlook/) — 2026-09-23
 - [Twelve Seoul Apartment Sales Hit Three-Year Highs in a Single Day of Filings](https://pulse.koreasignals.com/posts/twelve-seoul-apartment-sales-hit-three-year-highs-in-a-single-day-of-filings/) — 2026-09-19
 - [Korea Rolls Out Chuseok Food Discounts of Up to 64% to Tame Holiday Costs](https://pulse.koreasignals.com/posts/korea-rolls-out-chuseok-food-discounts-of-up-to-64-to-tame-holiday-costs/) — 2026-09-10
